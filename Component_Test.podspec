@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "Component_Test"
-  spec.version      = "1.0.0"
+  spec.version      = "1.1.1"
   spec.summary      = "一个建立pod仓库的简单demo."
 
   # This description is used to generate tags and improve search results.
